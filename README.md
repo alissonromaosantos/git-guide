@@ -94,7 +94,7 @@ As informações configuradas aqui são associadas aos commits realizados por vo
 
 Baixe o Git através do site oficial:
 
-👉 [git-scm.com](https://git-scm.com/)
+👉🏻 [git-scm.com](https://git-scm.com/)
 
 Depois da instalação, verifique se o Git está disponível:
 
