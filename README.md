@@ -1125,6 +1125,6 @@ Este guia foi baseado principalmente nos conceitos apresentados no livro **Pro G
 
   <br />
 
-&copy; 2026 - Feito com ❤️ e ☕ por <ahref="https://github.com/romaosantosalisson" target="_blank"><strong>Álisson</strong></a></div>
+&copy; 2026 - Feito com ❤️ e ☕ por <a href="https://github.com/alissonromaosantos" target="_blank"><strong>Álisson</strong></a></div>
 
 </div>
